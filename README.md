@@ -13,7 +13,8 @@ Using HTML,CSS,JS,Bootstrap to create combination of 2 games.
 ![image](https://user-images.githubusercontent.com/84846378/222896068-5a07326e-0b9b-4a57-93c3-81a7e5a16eba.png)
 
 ## 2nd Game
-![image](https://user-images.githubusercontent.com/84846378/222896083-4fb4a6e6-a219-42f7-a565-a6ff915b14cc.png)
+![image](https://user-images.githubusercontent.com/84846378/222896228-b9eab672-8213-4b3a-9356-184090a89a99.png)
+
 
 
 ### Continued development
